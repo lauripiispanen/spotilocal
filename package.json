@@ -1,0 +1,21 @@
+{
+  "name": "spotilocal",
+  "version": "0.0.1",
+  "author": "Lauri Piispanen",
+  "description": "Start spotify, then run this",
+  "contributors": [],
+  "scripts": {
+    "start": "node bin/spotilocal"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/lauripiispanen/spotilocal.git"
+  },
+  "dependencies": {
+    "underscore": "1.4.3"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.8"
+  }
+}
